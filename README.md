@@ -87,13 +87,6 @@ The architecture includes multiple components:
 - **Sensor Data Visualization**: Grafana dashboards displaying real-time IoT sensor data.
 - **Transaction and Application Data Visualization**: Kibana dashboards for fraud detection and detailed analysis.
 
-## Contributors
-
-- **Sindhu Nagesha** - 017419987
-- **Prayag Nikul Purani** - 017416737
-- **Syed Faraaz Ahmed** - 017428619
-- **Sai Vivek Chunduri** - 017435301
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
